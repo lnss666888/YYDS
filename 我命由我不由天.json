@@ -152,7 +152,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "内置版Q群1163138322",
+            "name": "内置Q群1163138322",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
