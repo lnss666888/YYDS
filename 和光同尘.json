@@ -1,10 +1,10 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 //本接口免费分享给小白使用，请勿轻信他人，谨防上当受骗。
-{
+{ "warningText": "资源均来自于网络，无盈利纯技术分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
     "urls": [
         {
             "url": "http://www.饭太硬.com/tv", 
-            "name": "🐉接口更新3.11🐉"
+            "name": "🐉接口更新3.20🐉"
         }, 
         {
             "url": "", 
@@ -314,10 +314,7 @@
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/liuniansishui666/TVBoxOSC/refs/heads/main/tvbox/api.json", 
             "name": "🚀潇洒在线线路备用（随时失效）"
-        }, 
-         {
-            "url": "群友修改CR", 
-            "name": "https://d.kstore.dev/download/10249/TVCR.json"
+        }
         }
     ]
 }

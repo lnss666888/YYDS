@@ -1,8 +1,13 @@
-{"storeHouse":[
-{"sourceName":"🚀自用仓3.14","sourceUrl":"https://gitee.com/duiyingchengsanren/tvbox/raw/master/tvbox.json"},
+//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
+//本接口免费分享给小白使用，请勿轻信他人，谨防上当受骗。
+{"warningText": "资源均来自于网络，无盈利纯技术分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
+"storeHouse":[
+{"sourceName":"🚀自用仓3.20","sourceUrl":"https://gitee.com/duiyingchengsanren/tvbox/raw/master/tvbox.json"},
 {"sourceName":"🚀讴歌多仓","sourceUrl":"https://xn--lttl-rp5imh.v.nxog.top/nxog/ou1.php?b=lt欧歌tl"},
+{"sourceName": "🔩常用codeberg","sourceUrl": "https://codeberg.org/jixiejishu/tvboxinformation/raw/branch/main/tvboxtools/jk/dxl/T&S.txt"},
 {"sourceName":"🚀天天开心","sourceUrl":"http://rihou.cc:55"},
 {"sourceName":"🚀天天开心备1","sourceUrl":"http://ttkx.cc:55"},
+{"sourceName":"33🌸荷花影视多仓库","sourceUrl":"https://jihulab.com/z-blog/xh2/-/raw/main/t3.json"},
 {"sourceName":"🚀讴歌多仓备1","sourceUrl":"https://2.nxog.eu.org/nxog/ou1.php?b=lt欧歌tl"},
 {"sourceName":"🚀讴歌多仓备2","sourceUrl":"https://3.nxog.eu.org/nxog/ou1.php?b=lt欧歌tl"},
 {"sourceName":"🚀码点多仓","sourceUrl":"http://mdxgh.tpddns.cn:9999/dc.json"},
