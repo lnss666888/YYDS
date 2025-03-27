@@ -1,8 +1,8 @@
 { 
     "urls": [ 
         {
-            "url": "http://www.饭太硬.com/tv", 
-            "name": "🐉接口更新3.20🐉"
+            "url": "http://肥猫.com", 
+            "name": "🐉接口更新3.27🐉"
         }, 
         {
             "url": "", 
@@ -23,6 +23,10 @@
          {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json", 
             "name": "🚀潇洒线路"
+        }, 
+        {
+            "url": "https://9877.kstore.space/AnotherD/api.json", 
+            "name": "🚀潇洒线路2"
         }, 
         {
             "url": "http://ztha.top/TVBox/thdjk.json", 
